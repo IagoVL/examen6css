@@ -1,3 +1,5 @@
 en este archivo.fig tambienes es el de este link: https://www.figma.com/file/kIciFPCmTopTp1MZqlSTnP/proyecto-pacman?node-id=16%3A3461 
 es una especie de "demo" con un intento de juego del pacman, esta a medias, ya que mi intencio era hacer todas las combinaciones posibles, pero vi que era excesivo y casi imposible, ya que por cada vifurcacion tendria que hacer mas y mas y los fantasmas tambine se mueven y hay que mirar que dependiendo la direccion que vayas se muevan tambien.
 Teneindo en cuenta que se pase sobre donde ya se a pasado anteriormente, donde no ya no hay puntos..., entonces si solo unos 20 segundos de juego con 3 vifurcaciones he tenido que hacer mas de 150 ventanas diferentes que ademas de tener que cuadriplicar para que este el menu correcto rn la ventana de configuracion de sonido 
+estan vinvuladas tosas las imagenes, te permiten acceder a la puntuacion desde el pausa y te permirte ir a la tabla de puntuaciones y al home desde ellas
+he hecho unas cuantaas pestañas para hacer una pantalla de carga, auque no queda demasiado fluido a como seria una caso de aplicacion final
