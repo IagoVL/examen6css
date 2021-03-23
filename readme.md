@@ -1,1 +1,2 @@
 en este archivo.fig tambienes es el de este link: https://www.figma.com/file/kIciFPCmTopTp1MZqlSTnP/proyecto-pacman?node-id=16%3A3461 
+es una especie de "demo" con un intento de juego del pacman, esta a medias, ya que mi intencio era hacer todas las combinaciones posibles, pero vi que era excesivo y casi imposible, ya que por cada vifurcacion tendria que hacer mas y mas y los fantasmas tambine se mueven y hay que mirar que dependiendo la direccion que vayas se muevan tambien.
