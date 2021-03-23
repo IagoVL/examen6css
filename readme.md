@@ -13,5 +13,9 @@ Tras acabar de subirlo todo, pensé:
 _Y si hago una pequeña web, poca cosa, con tan solo un botón me bastaría para que me lleve al enlace y ya, dos tres lineas de código._
 
  Que ademas para facilitar mi trabajo cogí de un codepen que tenia guardado con anterioridad, le he hecho unos pocos cambios, ya que antes tenia dos botones y otro texto, nada, todo muy superficial, pero no me acababa de convencer, así que después pensé le daré un pequeño toque personal, ya que en lo que es la web no he hecho nada, y le he puesto una imagen de Steach
- (steach.jpeg)
+ ![Sin titulo](steach.jpeg)
  Ya que esta imagen es mi foto de perfil en github
+
+ ## parte publicacion github pages
+
+Por ahora no he probado mucho, solo dos ocasiones, y en las cales ninguna de las dos me ha funcionado, pero luego, probé una tercera vez, sin hacer ningún tipo de cambio, en lo más mínimo, y mágica mente me funciono, en verdad no se si es que tenia que cargar algo o no sé el que, pero mientras funcione correctamente y no me de ningún tipo de error, yo en lo personal en esta ocasión me contento con ello
