@@ -1,7 +1,11 @@
 body {
     background-color: #333;
 }
-
+img {
+    height:"400px"; 
+    width:"400px";
+    float: center;
+}
 
 div.boton-2 {
         margin:200px auto 0 auto;
